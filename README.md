@@ -10,3 +10,4 @@
 8. open http://localhost:1234/ in the browser
 
 **B) SQL Improvement Logic Test**
+1. query.sql
